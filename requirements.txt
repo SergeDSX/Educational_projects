@@ -1,0 +1,14 @@
+matplotlib==3.5.2
+numpy==1.22.4
+pandas==1.4.2
+pingouin==0.5.2
+requests==2.22.0
+scipy==1.8.1
+seaborn==0.11.2
+statsmodels==0.13.2
+tqdm==4.64.0
+pandasql==0.7.3
+IPython==7.28.0
+jupyter_client==7.0.6
+jupyter_core==4.8.1
+notebook==6.4.4
